@@ -1,5 +1,0 @@
-[Autorun]
-Open=StartPortableApps.exe
-Action=Start PortableApps.com
-Icon=PortableApps\PortableApps.com\App\Graphics\usb.ico
-Label=PortableApps.com
