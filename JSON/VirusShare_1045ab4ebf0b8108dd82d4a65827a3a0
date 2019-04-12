@@ -1,0 +1,84 @@
+[1453]
+id=1453
+title=s5mark
+type=EXE
+url=https://s3-us-west-2.amazonaws.com/s5m/s5m.exe
+homepage=http://tb.downloadyee.com/info/elua_pp.html
+icon_url=http://tb.downloadyee.com/favicon.ico
+is_standalone=
+verify=re:HKLM,SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\s5mark,(Default)##re:HKLM,SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\s5mark,(Default)##re:HKLM,SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\s5m,(Default)##re:HKLM,SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\s5m,(Default)##re:HKLM,SOFTWARE\\Wow6432Node\\xs,(Default)##re:HKLM,SOFTWARE\\xs,(Default)
+exe_args=aid=1000107 tid=2000355 geo=us
+category=General
+is_default=1
+name=s5mark
+terms=http://tb.downloadyee.com/info/elua_pp.html
+description=The Best Proxy Application on Earth
+[1458]
+id=1458
+title=PCcleanPlus
+type=EXE
+url=http://plugpackdownload.net/Pack/Download/Setup.exe
+homepage=http://www.pccleanplus.com/privacypolicy
+icon_url=http://nottotrack.com/favicon.ico
+is_standalone=
+verify=re:HKCU,Software\\PC Clean Plus,(Default)##re:HKLM,SOFTWARE\\PC Clean Plus,(Default)##re:HKLM,WoW6432Node\\SOFTWARE\\PC Clean Plus,(Default)##re:HKLM,SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\pccleanplus
+exe_args=/VERYSILENT /PA=benmedia /CH=001 /N=23321
+category=General
+is_default=1
+name=PCcleanPlus-ShakingMed
+terms=http://www.pccleanplus.com/eula
+description=Fix Registry errors, improve system response time
+[1454]
+id=1454
+title=Nottotrack
+type=EXE
+url=http://dreple.com/download.php?adv=1723
+homepage=http://nottotrack.com/privacy
+icon_url=http://nottotrack.com/favicon.ico
+is_standalone=
+verify=fe:%APPDATA%\\AGData\\config.json##re:HKLM,SOFTWARE\\AVAST,(Default)##re:HKLM,SOFTWARE\\AVAST Software,(Default)##re:HKLM,SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\avast,(Default)##re:HKLM,SOFTWARE\\Avira\\AntiVir,(Default)##re:HKCU,Software\\Avira,(Default)
+exe_args=/S /adv 1723 /subadv 535
+category=General
+is_default=1
+name=Nottotrack
+terms=http://nottotrack.com/eula
+description=The Fastest Proxy Application on Earth
+[1449]
+id=1449
+title=System Healer
+type=EXE
+url=http://da.systemhealerhost.net/351002982/SystemHealer.exe
+homepage=http://altocloudmedia.com/
+icon_url=http://altocloudmedia.com/favicon.ico
+is_standalone=
+verify=re:HKCU,Software\\Super Optimizer,BuyNowURL##re:HKCU,Software\\System Healer,CartURL
+exe_args=/S
+category=General
+is_default=1
+name=SystemHealer
+terms=http://systemhealer.com/end-user-license-aggrement/
+is_wrapped=1
+description=Collect free gifts, coupons and fantastic rewards
+[243]
+id=243
+title=InterStat
+type=EXE
+url=https://s3.amazonaws.com/00cvs/InterstatNoGUI.exe
+homepage=http://interstat.eu/
+icon_url=http://interstat.eu/favicon.ico
+is_standalone=
+verify=re:HKC,Software\\Interstatnogui,(Default)
+exe_args=/c=77
+category=Social
+is_default=1
+name=InterStat
+terms=https://s3-us-west-2.amazonaws.com/00softpub/EULA.docx
+description=Bandwidth consumption measurement tool
+[71]
+id=71
+type=URL
+url=http://www.powerpackd.com/powerpack-installed/
+is_standalone=
+category=General
+is_default=1
+name=AfterDownloadPage
