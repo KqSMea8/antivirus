@@ -1,0 +1,9 @@
+
+document.write('<iframe id=baiduframe marginwidth=0 marginheight=0 scrolling=no');
+document.write('  framespacing=0 vspace=0 hspace=0 frameborder=0 width=297 height=30 ');
+document.write('  src=http://unstat.baidu.com/bdun.bsc?tn=jacklean_pg&cv=0&cid=1212947&csid=541&bgcr=808080&urlcr=0000ff&tbsz=130&sropls=1,2,6,12,99&insiteurl=www.auto-china.cn%3Bwww.auto-china.cn%3Bwww.auto-china.cn&defid=99&kwgp=0>');
+document.write('</iframe>');
+document.write('<br>');
+
+document.write('<a  href=http://world.automarket.net.cn/baogaoindex.asp target=_blank><img border=0 width=299 height=66 src=ad/20123191729949067.gif alt=Ó¢ÎÄ±¨¸æ></a>');
+
